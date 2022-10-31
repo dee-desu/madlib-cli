@@ -22,4 +22,4 @@
 Testing went fine 
 
 > # pull requests Link
-[pull requests]
+[pull requests](https://github.com/dee-desu/madlib-cli/pull/1)
